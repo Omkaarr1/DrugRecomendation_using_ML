@@ -1,5 +1,4 @@
 # Sentiment Analysis with Specialization in Drug Recommendation
-### [Try it Now!](http://34.131.166.57/)
 
 ## Problem Statement
 
