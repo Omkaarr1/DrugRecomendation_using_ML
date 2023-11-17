@@ -59,9 +59,9 @@ Overall, this project has the potential to significantly advance the field of se
 
 ## How to Run:
 1) Download these two files in a folder:
-   a) https://drive.google.com/file/d/15xunmQEuZC5afgzVVUyGq2j15n21Tw1O/view?usp=sharing
-   b) https://drive.google.com/file/d/1ccM5lMJZrgjbSSWodR-k8H49swgUYLLX/view?usp=sharing
-2) Downlaod the web.py file and run it with this command:
+    https://drive.google.com/file/d/15xunmQEuZC5afgzVVUyGq2j15n21Tw1O/view?usp=sharing
+    https://drive.google.com/file/d/1ccM5lMJZrgjbSSWodR-k8H49swgUYLLX/view?usp=sharing
+3) Downlaod the web.py file and run it with this command:
    ```python
    python -m uvicorn:web app --reload
    ```
