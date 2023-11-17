@@ -56,3 +56,12 @@ To achieve our objectives, we will employ state-of-the-art NLP techniques, senti
 Upon completion of this project, we anticipate developing a sophisticated sentiment analysis system specialized in drug recommendation. The system is expected to offer valuable insights into drug sentiment, provide personalized medication suggestions, and contribute to improving patient outcomes and healthcare decision-making.
 
 Overall, this project has the potential to significantly advance the field of sentiment analysis in healthcare and pharmaceuticals, fostering a better understanding of patient experiences and helping healthcare professionals make informed and patient-centric drug recommendations.
+
+## How to Run:
+1) Download these two files in a folder:
+   a) https://drive.google.com/file/d/15xunmQEuZC5afgzVVUyGq2j15n21Tw1O/view?usp=sharing
+   b) https://drive.google.com/file/d/1ccM5lMJZrgjbSSWodR-k8H49swgUYLLX/view?usp=sharing
+2) Downlaod the web.py file and run it with this command:
+   ```python
+   python -m uvicorn:web app --reload
+   ```
