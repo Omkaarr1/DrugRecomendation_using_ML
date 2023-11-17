@@ -6,8 +6,8 @@ import re
 import joblib
 import re
 
-loaded_classifier = joblib.load('C:/Users/omkar/Desktop/project/DecisionTree/decision_tree_model.pkl')
-loaded_vectorizer = joblib.load('C:/Users/omkar/Desktop/project/DecisionTree/vectorizer.pkl')
+loaded_classifier = joblib.load('decision_tree_model.pkl')
+loaded_vectorizer = joblib.load('vectorizer.pkl')
 
 # Preprocess user input
 def preprocess_input(input_text):
